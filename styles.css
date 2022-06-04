@@ -1,0 +1,23 @@
+.recipe-one,
+.recipe-two {
+       text-align: center;
+}
+
+.header {
+    color: red;
+}
+
+.banana-bread,
+.french-toast {
+    height: auto;
+    width: 400px;
+}
+
+em {
+    color: gray;
+}
+
+.description-bread {
+    text-align: center;
+}
+
